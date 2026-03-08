@@ -1,0 +1,27 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="{{ "images/68c58f5221b24cf99de90366c81a8c91.jpg" | relURL }}" alt="Daoping Wang" class="profile-photo">
+      <a href="{{ .Site.BaseURL }}"><h1 class="sidebar-title">Daoping Wang（王道平）</h1></a>
+      <p class="lead">
+        School of Finance, Nankai University<br>
+        Tianjin 300350<br>
+        P. R. China<br>
+<a>Contact: </a><a href="mailto:wangdaoping@nankai.edu.cn">wangdaoping@nankai.edu.cn</a>
+      </p>
+
+    </div>
+    <br>
+    <br>
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
+  </div>
+</aside>

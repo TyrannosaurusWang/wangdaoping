@@ -1,10 +1,35 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "Daoping Wang"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 1
+
+[[menu.main]]
+name = "Data"
+url = "/data/"
+weight = 2
+
+[[menu.main]]
+name = "Research Projects"
+url = "/research/"
+weight = 3
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching/"
+weight = 4
+
+[[menu.main]]
+name = "Citations"
+url = "/citations/"
+weight = 5
