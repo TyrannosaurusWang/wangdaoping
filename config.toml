@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://wangdaoping.pages.dev/"
 languageCode = "en-us"
 theme = "hyde"
 title = "Daoping Wang"
