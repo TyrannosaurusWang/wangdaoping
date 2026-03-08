@@ -16,6 +16,6 @@ title: "Publications"
 
 6. **Xiaoyun Fan, Xinyan Shen, Daoping Wang, Cier Zhou**, "The Paris Agreement and Firms' Carbon Information Disclosure: Honesty or Catering?", *International Review of Economics and Finance*, March 2025.
 
-7. **Daoping Wang*, Yichun Wang, Yangjingzhuo Liu**, "Temperature variability, natural disasters and bank systemic risk: Evidence from Chinese city commercial banks", *Economics Letters*, Volume 242, September 2024, 111846.
+7. **Daoping Wang, Yichun Wang, Yangjingzhuo Liu**, "Temperature variability, natural disasters and bank systemic risk: Evidence from Chinese city commercial banks", *Economics Letters*, Volume 242, September 2024, 111846.
 
 8. **Xiaoyun Fan, Yedong Wang, Daoping Wang**, "Network connectedness and China's systemic financial risk contagion——An analysis based on big data", *Pacific-Basin Finance Journal*, Volume 68, September 2021.
