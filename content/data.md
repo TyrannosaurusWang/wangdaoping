@@ -6,11 +6,11 @@ title: "Data"
 
 ---
 
-**1. Xinyan Shen, Daoping Wang, Chen Wu**, "Measuring geopolitical risk in China", *Pacific-Basin Finance Journal*, 2026 forthcoming.
+**1. Xinyan Shen, Daoping Wang, Chen Wu**, [“Measuring geopolitical risk in China”](https://authors.elsevier.com/a/1mrz1,L5lksQza), *Pacific-Basin Finance Journal*, Volume 98, April 2026.
 
 Download Data: [Geopolitical Risk Index for China (GPR-China)](/data/geopolitical-risk-china.zip)
 
-**Citation:** Shen, X., Wang, D., Wu, C., 2026. Measuring geopolitical risk in China. *Pacific-Basin Finance Journal* forthcoming.
+**Citation:** Shen, X., Wang, D., Wu, C., 2026. Measuring geopolitical risk in China. *Pacific-Basin Finance Journal* 98.
 
 ---
 

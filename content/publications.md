@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Selected Publications
 
-1. **Xinyan Shen, Daoping Wang, Chen Wu**, "Measuring geopolitical risk in China", *Pacific-Basin Finance Journal*, 2026 forthcoming.
+1. **Xinyan Shen, Daoping Wang, Chen Wu**, [“Measuring geopolitical risk in China”](https://authors.elsevier.com/a/1mrz1,L5lksQza), *Pacific-Basin Finance Journal*, Volume 98, April 2026.
 
 2. **Yangjingzhuo Liu, Daoping Wang, Xiaoyun Fan**, "Fintech, systemic risk and bank performance Based on the perspective of systemic-risk-adjusted performance", *Pacific-Basin Finance Journal*, Volume 95, January 2026.
 
